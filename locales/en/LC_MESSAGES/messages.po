@@ -1,0 +1,536 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-14 21:55+0500\n"
+"PO-Revision-Date: 2024-05-14 18:56+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: commands/main_commands.py:16 handler/main_keyboard.py:88
+#: routers/send_to_admin.py:12
+msgid "Sherik kerak"
+msgstr "Partner needs"
+
+#: commands/main_commands.py:17 routers/send_to_admin.py:13
+msgid "Ish joyi kerak"
+msgstr "Workplace needs"
+
+#: commands/main_commands.py:18 routers/send_to_admin.py:14
+msgid "Xodim kerak"
+msgstr "Worker needs"
+
+#: commands/main_commands.py:19 routers/send_to_admin.py:15
+msgid "Ustoz kerak"
+msgstr "Teacher needs"
+
+#: commands/main_commands.py:20 routers/send_to_admin.py:16
+msgid "Shogird kerak"
+msgstr "Apprentice needs"
+
+#: commands/main_commands.py:21 routers/send_to_admin.py:17
+msgid "Tilni o'zgartirish"
+msgstr "Change language"
+
+#: commands/main_commands.py:30
+msgid ""
+"<b>Assalom alaykum {name}\n"
+"Ustoz Shogird kanalining rasmiy botiga xush kelibsiz!</b>\n"
+"\n"
+"/help yordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+"<b>Assalomu aleykum {name}\n"
+"Welcome to the official bot of Ustoz Shagird channel!</b>\n"
+"\n"
+"See what I'm capable of with the help command /help!"
+
+#: commands/main_commands.py:36
+msgid ""
+"\n"
+"P22 group faoli tomonidan tuzilgan Ustoz-Shogird kanali.\n"
+"\n"
+"Bu yerda Programmalash bo`yicha\n"
+"  #Ustoz,\n"
+"  #Shogird,\n"
+"  #oquvKursi,\n"
+"  #Sherik,\n"
+"  #Xodim va\n"
+"  #IshJoyi\n"
+" topishingiz mumkin.\n"
+"\n"
+"E'lon berish: @usta_shogirt1_bot\n"
+"\n"
+"Admin @shahriyor447"
+msgstr ""
+"\n"
+"Ustoz-Shogird channel created by P22 group activist.\n"
+"\n"
+"Here on about Programming\n"
+"  #Teacher,\n"
+"  #Apprentice,\n"
+"  #trainingcourse,\n"
+"  #Partner,\n"
+"  #Worker and\n"
+"  #Workplace\n"
+" can you find.\n"
+"\n"
+"Announcement: @usta_shogirt1_bot\n"
+"\n"
+"Admin @shahriyor447"
+
+#: handler/main_keyboard.py:25
+msgid "🇺🇿o'zbek"
+msgstr "🇺🇿uzbek"
+
+#: handler/main_keyboard.py:26
+msgid "🇬🇧ingliz"
+msgstr "🇬🇧english"
+
+#: handler/main_keyboard.py:28
+msgid "Tilni tanlang"
+msgstr "Choose language"
+
+#: handler/main_keyboard.py:36
+msgid "O'zbek"
+msgstr "Uzbek"
+
+#: handler/main_keyboard.py:38
+msgid "Ingliz"
+msgstr "English"
+
+#: handler/main_keyboard.py:39
+msgid "{lang} tili tanlandi"
+msgstr "{lang} selected"
+
+#: handler/main_keyboard.py:42
+msgid "Assalomu aleykum! Tanlang."
+msgstr "Welcome! Choose."
+
+#: handler/main_keyboard.py:62 handler/main_keyboard.py:81
+msgid "Ism, familiyangizni kiriting?"
+msgstr "Enter your first name, last name?"
+
+#: handler/main_keyboard.py:78
+msgid ""
+"\n"
+"{space} topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi.\n"
+"    "
+msgstr ""
+"\n"
+"to find {space} filing an application\n"
+"\n"
+"Now you will be asked some questions. \n"
+"Answer each one. \n"
+"At the end, if everything is correct, press the YES button and your "
+"applicationIt will send to admin.\n"
+"    "
+
+#: handler/main_keyboard.py:90
+msgid ""
+"🕑 Yosh: \n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan, 19"
+msgstr ""
+"🕑 Age: \n"
+"\n"
+"Enter your age?\n"
+"Example, 19"
+
+#: handler/main_keyboard.py:94 handler/main_keyboard.py:102
+msgid ""
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating.\n"
+"Masalan, Java, C++, C#"
+msgstr ""
+"📚 Technology:\n"
+"\n"
+"Include required technologies?\n"
+"Separate technology names with commas.\n"
+"Example, Java, C++, C#"
+
+#: handler/main_keyboard.py:108 routers/worker.py:48
+msgid "Telefon raqam"
+msgstr "Phone number"
+
+#: handler/main_keyboard.py:112
+msgid ""
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun button orqali yuboring yoki raqamingizni kiriting?\n"
+"Masalan, 998 90 123 45 67"
+msgstr ""
+"📞 Communication: \n"
+"\n"
+"To contact, send through the button or enter your number?\n"
+"Example, 998 90 123 45 67"
+
+#: handler/main_keyboard.py:126
+msgid ""
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+"🌐 Region: \n"
+"\n"
+"What area are you from??\n"
+"Enter region name, Toshkent city or Republic"
+
+#: handler/main_keyboard.py:134
+msgid ""
+"💰 Narxi:\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi?\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+"💰 Price:\n"
+"\n"
+"Paid or Free?\n"
+"If necessary, enter amount?"
+
+#: handler/main_keyboard.py:141
+msgid ""
+"👨🏻‍💻 Kasbi: \n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan, Talaba"
+msgstr ""
+"👨🏻‍💻 Job: \n"
+"\n"
+"Work or study\n"
+"Example, Student"
+
+#: handler/main_keyboard.py:148
+msgid ""
+"🕰 Murojaat qilish vaqti:\n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00"
+msgstr ""
+"🕰 Time to connect:\n"
+"\n"
+"When can I apply?\n"
+"Example, 9:00 - 18:00"
+
+#: handler/main_keyboard.py:155
+msgid ""
+"🔎 Maqsad: \n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+"🔎 Goal: \n"
+"\n"
+"Briefly write down your goal."
+
+#: handler/main_keyboard.py:166
+msgid "Shogird"
+msgstr "Apprentice"
+
+#: handler/main_keyboard.py:166
+msgid "Ustoz"
+msgstr "Teacher"
+
+#: handler/main_keyboard.py:167
+msgid "shogird"
+msgstr "apprentice"
+
+#: handler/main_keyboard.py:168
+msgid "Sherik"
+msgstr "Partner"
+
+#: handler/main_keyboard.py:169
+msgid "sherik"
+msgstr "partner"
+
+#: handler/main_keyboard.py:171
+msgid "ishjoyi"
+msgstr "workpalce"
+
+#: handler/main_keyboard.py:174
+msgid ""
+"\n"
+"🌐 Yosh: {age}"
+msgstr ""
+"\n"
+"🌐 Age: {age}"
+
+#: handler/main_keyboard.py:177
+msgid ""
+"\n"
+"<b>{key}</b>\n"
+"\n"
+"🎓{answer_status}: {name}{text_adition}\n"
+"📚 Texnologiya: {technology}\n"
+"🇺🇿 Telegram: {user}\n"
+"📞 Aloqa: +{phone_number}\n"
+"🌐 Hudud: {place}\n"
+"💰 Narxi: {salary}\n"
+"👨🏻‍💻 Kasbi: {job}\n"
+"🕰 Murojaat qilish vaqti: {time_connect}\n"
+"🔎 Maqsad: {aim}    \n"
+"    \n"
+"#{hashtag}\n"
+"    "
+msgstr ""
+"\n"
+"<b>{key}</b>\n"
+"\n"
+"🎓{answer_status}: {name}{text_adition}\n"
+"📚 Technology: {technology}\n"
+"🇺🇿 Telegram: {user}\n"
+"📞 Communication: +{phone_number}\n"
+"🌐 Region: {place}\n"
+"💰 Price: {salary}\n"
+"\"19👨🏻‍💻 Job: {job}\n"
+"🕰 Time to connect: {time_connect}\n"
+"🔎 Goal: {aim}    \n"
+"    \n"
+"#{hashtag}\n"
+"    "
+
+#: handler/main_keyboard.py:197 routers/worker.py:162
+msgid "Barcha ma'lumotlar to'g'rimi?"
+msgstr "Is all the information correct?"
+
+#: handler/yes_no.py:6
+msgid "Ha"
+msgstr "Yes"
+
+#: handler/yes_no.py:7
+msgid "Yo'q"
+msgstr "No"
+
+#: routers/send_to_admin.py:23
+msgid "✅Qabul qilish"
+msgstr "✅Accept"
+
+#: routers/send_to_admin.py:24
+msgid "❌Bekor qilish"
+msgstr "❌Cancel"
+
+#: routers/send_to_admin.py:30
+msgid ""
+"📪 So`rovingiz tekshirish uchun adminga jo`natildi!\n"
+"\n"
+"E'lon 24-48 soat ichida kanalda chiqariladi."
+msgstr ""
+"📪 Your request has been sent to admin for review!\n"
+"\n"
+"The announcement will be released on the channel within 24-48 hours."
+
+#: routers/send_to_admin.py:44
+msgid "🎉 Arizangiz admin tominidan qabul qilindi"
+msgstr "🎉 Your application has been accepted by the admin"
+
+#: routers/send_to_admin.py:47
+msgid "❌ Arizangiz admin tominidan qabul qilinmadi"
+msgstr "❌ Your application was not accepted by the admin"
+
+#: routers/send_to_admin.py:55
+msgid ""
+"Bekor qilindi.\n"
+"Tanlang"
+msgstr ""
+"Cancelled.\n"
+"Choose"
+
+#: routers/worker.py:24
+msgid ""
+"\n"
+"{space} topish uchun ariza berish\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi. \n"
+"Har biriga javob bering. \n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi.\n"
+msgstr ""
+"\n"
+"to find {space} filing an application\n"
+"\n"
+"Now you will be asked some questions. \n"
+"Answer each one. \n"
+"At the end, if everything is correct, press the YES button and your "
+"applicationIt will send to admin.\n"
+"    "
+
+#: routers/worker.py:27
+msgid "🎓 Idora nomi?"
+msgstr "🎓 Name of the office?"
+
+#: routers/worker.py:33
+msgid ""
+"\n"
+"📚 Texnologiya:\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating. Masalan, \n"
+"\n"
+"Java, C++, C#    \n"
+msgstr ""
+"\n"
+"📚 Technology:\n"
+"\n"
+"Include required technologies?\n"
+"Separate technology names with commas.\n"
+"Example, Java, C++, C#"
+
+#: routers/worker.py:51
+msgid ""
+"\n"
+"📞 Aloqa: \n"
+"\n"
+"Bog`lanish uchun buttonni bosing yoki raqamingizni kiriting?\n"
+"Masalan, 998 90 123 45 67    \n"
+msgstr ""
+"\n"
+"📞 Communication: \n"
+"\n"
+"To contact, send through the button or enter your number?\n"
+"Example, 998 90 123 45 67"
+
+#: routers/worker.py:69
+msgid ""
+"\n"
+"🌐 Hudud: \n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting.  \n"
+msgstr ""
+"🌐 Region: \n"
+"\n"
+"What area are you from??\n"
+"Enter region name, Toshkent city or Republic"
+
+#: routers/worker.py:82
+msgid ""
+"\n"
+"✍️Mas'ul ism sharifi?\n"
+msgstr ""
+"\n"
+"✍️Responsible person's name?\n"
+
+#: routers/worker.py:92
+msgid ""
+"\n"
+"🕰 Murojaat qilish vaqti: \n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan, 9:00 - 18:00\n"
+msgstr ""
+"\n"
+"🕰 Time to connect:\n"
+"\n"
+"When can I apply?\n"
+"Example, 9:00 - 18:00"
+
+#: routers/worker.py:105
+msgid ""
+"\n"
+"🕰 Ish vaqtini kiriting?\n"
+msgstr ""
+"\n"
+"🕰 Enter working hours\n"
+
+#: routers/worker.py:115
+msgid ""
+"\n"
+"💰 Maoshni kiriting?\n"
+msgstr ""
+"\n"
+"💰 Enter salary\n"
+
+#: routers/worker.py:125
+msgid ""
+"\n"
+"‼️ Qo`shimcha ma`lumotlar?\n"
+msgstr ""
+"\n"
+"‼️ Additional information?\n"
+
+#: routers/worker.py:156
+msgid ""
+"\n"
+"{key}:\n"
+"\n"
+"🏢 Idora: {office}\n"
+"📚 Texnologiya: {technology_}\n"
+"🇺🇿 Telegram: {username}  \n"
+"📞 Aloqa: +{call}\n"
+"🌐 Hudud:{place_}\n"
+"✍️ Mas'ul: {res_person}\n"
+"🕰 Murojaat vaqti: {time_connect_}\n"
+"🕰 Ish vaqti: {time_work} \n"
+"💰 Maosh: {salary_}\n"
+"‼️ Qo`shimcha: {addition_}\n"
+"\n"
+"#ishJoyi\n"
+msgstr ""
+"\n"
+"{key}:\n"
+"\n"
+"🏢 Office: {office}\n"
+"📚 Technology: {technology_}\n"
+"🇺🇿 Telegram: {username}  \n"
+"📞 Communication: +{call}\n"
+"🌐 Region: {place_}\n"
+"✍️ Responsible: {res_person}\n"
+"🕰 Time to connect: {time_connect_}\n"
+"🕰 Working hours: {time_work} \n"
+"💰 Salary: {salary_}\n"
+"‼️ Addition: {addition_}\n"
+"\n"
+"#workplace\n"
+
+#~ msgid "Welcome! Choose."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🔎 Goal: \n"
+#~ "\n"
+#~ "Briefly write down your goal."
+#~ msgstr ""
+
+#~ msgid "Ish joyi"
+#~ msgstr "workpalce"
+
+#~ msgid ""
+#~ "\n"
+#~ "{space} topish uchun ariza berish\n"
+#~ "\n"
+#~ "Hozir sizga birnecha savollar beriladi. \n"
+#~ "Har biriga javob bering. \n"
+#~ "Oxirida agar hammasi to`g`ri bo`lsa, HA"
+#~ " tugmasini bosing va arizangiz Adminga "
+#~ "yuboriladi.\n"
+#~ "        "
+#~ msgstr ""
+#~ "\n"
+#~ "to find {space} filing an application\n"
+#~ "\n"
+#~ "Now you will be asked some questions. \n"
+#~ "Answer each one. \n"
+#~ "At the end, if everything is "
+#~ "correct, press the YES button and "
+#~ "your applicationIt will send to admin."
+#~ "\n"
+#~ "    "
+
